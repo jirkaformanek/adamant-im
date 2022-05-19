@@ -18,7 +18,7 @@
     "postinstall": "electron-builder install-app-deps"
   },
   "dependencies": {
-    "@liskhq/lisk-cryptography": "3.2.0",
+    "@liskhq/lisk-cryptography": "3.2.1",
     "@liskhq/lisk-transactions": "5.2.0",
     "@mdi/font": "^6.5.95",
     "@stablelib/utf8": "^1.0.1",
